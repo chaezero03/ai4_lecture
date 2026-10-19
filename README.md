@@ -1,2 +1,2 @@
 # ai4_lecture
-ㅁㅁ
+Run: python main.py
